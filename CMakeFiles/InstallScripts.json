@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/justinleong/Documents/OpenSai/cmake_install.cmake",
+		"/Users/justinleong/Documents/OpenSai/homework/cmake_install.cmake",
+		"/Users/justinleong/Documents/OpenSai/homework/hw0/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

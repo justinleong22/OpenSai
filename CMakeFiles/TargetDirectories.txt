@@ -1,0 +1,8 @@
+/Users/justinleong/Documents/OpenSai/CMakeFiles/edit_cache.dir
+/Users/justinleong/Documents/OpenSai/CMakeFiles/rebuild_cache.dir
+/Users/justinleong/Documents/OpenSai/homework/CMakeFiles/edit_cache.dir
+/Users/justinleong/Documents/OpenSai/homework/CMakeFiles/rebuild_cache.dir
+/Users/justinleong/Documents/OpenSai/homework/hw0/CMakeFiles/hw0.dir
+/Users/justinleong/Documents/OpenSai/homework/hw0/CMakeFiles/hw0-viz.dir
+/Users/justinleong/Documents/OpenSai/homework/hw0/CMakeFiles/edit_cache.dir
+/Users/justinleong/Documents/OpenSai/homework/hw0/CMakeFiles/rebuild_cache.dir
